@@ -1,8 +1,8 @@
 {
-  "name": "budget-app",
+  "name": "expensify-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/pavlvs/r-budget.git",
+  "repository": "https://github.com/pavlvs/expensify-app.git",
   "author": "Paul J. Shaw <pavlvsxavier@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -16,6 +16,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-modal": "^3.13.1",
+    "react-router-dom": "^5.2.0",
     "sass-loader": "^12.0.0",
     "style-loader": "^2.0.0",
     "validator": "^13.6.0",
